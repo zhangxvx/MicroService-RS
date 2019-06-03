@@ -1,0 +1,7 @@
+﻿#忽略IDEA配置文件
+__pycache__/
+util/
+sim/
+th*/
+steam/
+old/
